@@ -9,6 +9,8 @@ Dead stupid simple. Just use the following command (tested on Python 2.6+ and 3.
 
 The script will spit out possible English words based on the provided word bank and the size of the word. 
 
+Or, you can try <a href="http://ericzaporzan.pythonanywhere.com/">the handy webapp</a>, hosted on PythonAnywhere!
+
 ## Limitations
 
 This script really only works on English words by design – the word list is in English! If someone asks me I will certainly add some rudimentary internationalization to the script.
